@@ -1,2 +1,2 @@
 # battery_life_G5
-uiautomator of python
+格力G5手机续航测试模式，基于Python的Uiautomator编写
